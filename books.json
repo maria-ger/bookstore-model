@@ -1,0 +1,1309 @@
+[
+    {
+        "authors": [
+            "Александр Волков"
+        ],
+        "title": "Волшебник Изумрудного города",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 224,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 766.0
+    },
+    {
+        "authors": [
+            "Валентина Осеева"
+        ],
+        "title": "Динка",
+        "publisher": "Эксмо",
+        "year": 2024,
+        "is_new": false,
+        "pages": 640,
+        "subject": "Отношения",
+        "category": "Детская литература",
+        "price": 1155.0
+    },
+    {
+        "authors": [
+            "Лидия Чарская"
+        ],
+        "title": "Княжна Джаваха",
+        "publisher": "АСТ",
+        "year": 2023,
+        "is_new": false,
+        "pages": 288,
+        "subject": "Отношения",
+        "category": "Детская литература",
+        "price": 1002.0
+    },
+    {
+        "authors": [
+            "Лидия Чарская"
+        ],
+        "title": "Записки юной гимназистки",
+        "publisher": "Эксмо",
+        "year": 2023,
+        "is_new": false,
+        "pages": 160,
+        "subject": "Отношения",
+        "category": "Детская литература",
+        "price": 424.0
+    },
+    {
+        "authors": [
+            "Клайв Льюис"
+        ],
+        "title": "Хроники Нарнии",
+        "publisher": "Эксмо",
+        "year": 2025,
+        "is_new": true,
+        "pages": 912,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 1415.0
+    },
+    {
+        "authors": [
+            "Туве Янссон"
+        ],
+        "title": "Шляпа Волшебника",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 208,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 742.0
+    },
+    {
+        "authors": [
+            "Туве Янссон"
+        ],
+        "title": "Опасное лето",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 192,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 742.0
+    },
+    {
+        "authors": [
+            "Туве Янссон"
+        ],
+        "title": "Папа и море",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 742.0
+    },
+    {
+        "authors": [
+            "Марк Твен"
+        ],
+        "title": "Приключения Тома Сойера",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 288,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Михаил Пришвин"
+        ],
+        "title": "Кладовая солнца",
+        "publisher": "АСТ",
+        "year": 2023,
+        "is_new": false,
+        "pages": 224,
+        "subject": "Природа",
+        "category": "Детская литература",
+        "price": 339.0
+    },
+    {
+        "authors": [
+            "Виталий Бианки",
+            "Михаил Пришвин"
+        ],
+        "title": "Рассказы о животных",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 112,
+        "subject": "Природа",
+        "category": "Детская литература",
+        "price": 359.0
+    },
+    {
+        "authors": [
+            "Роберт Льюис Стивенсон"
+        ],
+        "title": "Остров сокровищ",
+        "publisher": "Эксмо",
+        "year": 2023,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 424.0
+    },
+    {
+        "authors": [
+            "Льюис Кэрролл"
+        ],
+        "title": "Алиса в Стране чудес. Алиса в Зазеркалье",
+        "publisher": "Мартин",
+        "year": 2020,
+        "is_new": false,
+        "pages": 224,
+        "subject": "Приключения",
+        "category": "Детская литература",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Артур Дойл"
+        ],
+        "title": "Приключения Шерлока Холмса",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 384,
+        "subject": "Приключения",
+        "category": "Детектив",
+        "price": 359.0
+    },
+    {
+        "authors": [
+            "Холли Джексон"
+        ],
+        "title": "Хорошая девочка — плохая компания",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 160,
+        "subject": "Триллер",
+        "category": "Детектив",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Агата Кристи"
+        ],
+        "title": "Убийства по алфавиту",
+        "publisher": "Эксмо",
+        "year": 2025,
+        "is_new": true,
+        "pages": 320,
+        "subject": "Триллер",
+        "category": "Детектив",
+        "price": 459.0
+    },
+    {
+        "authors": [
+            "Донна Тартт"
+        ],
+        "title": "Тайная история",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 592,
+        "subject": "Триллер",
+        "category": "Детектив",
+        "price": 1651.0
+    },
+    {
+        "authors": [
+            "Уильям Уилки Коллинз"
+        ],
+        "title": "Отель с привидениями",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 448,
+        "subject": "Триллер",
+        "category": "Детектив",
+        "price": 388.0
+    },
+    {
+        "authors": [
+            "Гастон Леру"
+        ],
+        "title": "Тайна желтой комнаты",
+        "publisher": "Пальмира",
+        "year": 2021,
+        "is_new": false,
+        "pages": 336,
+        "subject": "Приключения",
+        "category": "Детектив",
+        "price": 1356.0
+    },
+    {
+        "authors": [
+            "Гастон Леру"
+        ],
+        "title": "Духи Дамы в черном",
+        "publisher": "Пальмира",
+        "year": 2021,
+        "is_new": false,
+        "pages": 376,
+        "subject": "Приключения",
+        "category": "Детектив",
+        "price": 1533.0
+    },
+    {
+        "authors": [
+            "Энди Вейер"
+        ],
+        "title": "Марсианин",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 480,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 565.0
+    },
+    {
+        "authors": [
+            "Фрэнк Герберт"
+        ],
+        "title": "Дюна",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 640,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 1769.0
+    },
+    {
+        "authors": [
+            "Фрэнк Герберт"
+        ],
+        "title": "Мессия Дюны. Дети Дюны",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 720,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 1887.0
+    },
+    {
+        "authors": [
+            "Герберт Уэллс"
+        ],
+        "title": "Война миров",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 288,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Айзек Азимов"
+        ],
+        "title": "Академия",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 884.0
+    },
+    {
+        "authors": [
+            "Дуглас Адамс"
+        ],
+        "title": "Автостопом по Галактике",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 352,
+        "subject": "Космос",
+        "category": "Научная фантастика",
+        "price": 825.0
+    },
+    {
+        "authors": [
+            "Айзек Азимов"
+        ],
+        "title": "Я, робот",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Технологии",
+        "category": "Научная фантастика",
+        "price": 699.0
+    },
+    {
+        "authors": [
+            "Уильям Гибсон"
+        ],
+        "title": "Нейромант",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 544,
+        "subject": "Технологии",
+        "category": "Научная фантастика",
+        "price": 565.0
+    },
+    {
+        "authors": [
+            "Эрнест Клайн"
+        ],
+        "title": "Первому игроку приготовиться",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 480,
+        "subject": "Технологии",
+        "category": "Научная фантастика",
+        "price": 825.0
+    },
+    {
+        "authors": [
+            "Герберт Уэллс"
+        ],
+        "title": "Машина времени",
+        "publisher": "Эксмо",
+        "year": 2023,
+        "is_new": false,
+        "pages": 384,
+        "subject": "Будущее",
+        "category": "Научная фантастика",
+        "price": 742.0
+    },
+    {
+        "authors": [
+            "Олдос Леонард Хаксли"
+        ],
+        "title": "О дивный новый мир",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 352,
+        "subject": "Будущее",
+        "category": "Научная фантастика",
+        "price": 459.0
+    },
+    {
+        "authors": [
+            "Станислав Лем"
+        ],
+        "title": "Солярис",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 288,
+        "subject": "Будущее",
+        "category": "Научная фантастика",
+        "price": 459.0
+    },
+    {
+        "authors": [
+            "Аркадий Стругацкий",
+            "Борис Стругацкий"
+        ],
+        "title": "Трудно быть богом",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Будущее",
+        "category": "Научная фантастика",
+        "price": 435.0
+    },
+    {
+        "authors": [
+            "Дэвид Луис Эдельман"
+        ],
+        "title": "Инфошок",
+        "publisher": "Эксмо",
+        "year": 2025,
+        "is_new": true,
+        "pages": 448,
+        "subject": "Технологии",
+        "category": "Научная фантастика",
+        "price": 1498.0
+    },
+    {
+        "authors": [
+            "Джон Рональд Руэл Толкин"
+        ],
+        "title": "Властелин Колец",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 752,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 2595.0
+    },
+    {
+        "authors": [
+            "Теренс Хэнбери Уайт"
+        ],
+        "title": "Король былого и грядущего",
+        "publisher": "Азбука",
+        "year": 2021,
+        "is_new": false,
+        "pages": 800,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1533.0
+    },
+    {
+        "authors": [
+            "Урсула Ле Гуин"
+        ],
+        "title": "Волшебник Земноморья",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 640,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1415.0
+    },
+    {
+        "authors": [
+            "Аркадий Стругацкий",
+            "Борис Стругацкий"
+        ],
+        "title": "Понедельник начинается в субботу",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 471.0
+    },
+    {
+        "authors": [
+            "Стивен Кинг"
+        ],
+        "title": "Позже",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Триллер",
+        "category": "Фэнтези",
+        "price": 625.0
+    },
+    {
+        "authors": [
+            "Стивен Кинг"
+        ],
+        "title": "Институт",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 608,
+        "subject": "Триллер",
+        "category": "Фэнтези",
+        "price": 1356.0
+    },
+    {
+        "authors": [
+            "Макс Фрай"
+        ],
+        "title": "Темная сторона",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 352,
+        "subject": "Приключения",
+        "category": "Фэнтези",
+        "price": 978.0
+    },
+    {
+        "authors": [
+            "Анджей Сапковский"
+        ],
+        "title": "Последнее желание. Меч предназначения",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 672,
+        "subject": "Приключения",
+        "category": "Фэнтези",
+        "price": 1120.0
+    },
+    {
+        "authors": [
+            "Чайна Мьевиль"
+        ],
+        "title": "Нон Лон Дон",
+        "publisher": "Эксмо",
+        "year": 2021,
+        "is_new": false,
+        "pages": 576,
+        "subject": "Приключения",
+        "category": "Фэнтези",
+        "price": 869.0
+    },
+    {
+        "authors": [
+            "Джон Рональд Руэл Толкин"
+        ],
+        "title": "Хоббит",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Приключения",
+        "category": "Фэнтези",
+        "price": 795.0
+    },
+    {
+        "authors": [
+            "Кир Булычев"
+        ],
+        "title": "Сто лет тому вперед",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 352,
+        "subject": "Будущее",
+        "category": "Фэнтези",
+        "price": 424.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и философский камень",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 432,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1057.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и Тайная комната",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 480,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1057.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и узник Азкабана",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 528,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1057.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и Кубок Огня",
+        "publisher": "Азбука",
+        "year": 2023,
+        "is_new": false,
+        "pages": 704,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1592.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и Орден Феникса",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 896,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1710.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и Принц-полукровка",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 672,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1592.0
+    },
+    {
+        "authors": [
+            "Джоан Кэтлин Роулинг"
+        ],
+        "title": "Гарри Поттер и Дары Смерти",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 704,
+        "subject": "Магия",
+        "category": "Фэнтези",
+        "price": 1592.0
+    },
+    {
+        "authors": [
+            "Джейн Остен"
+        ],
+        "title": "Доводы рассудка",
+        "publisher": "Пальмира",
+        "year": 2022,
+        "is_new": false,
+        "pages": 287,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 1179.0
+    },
+    {
+        "authors": [
+            "Джейн Остен"
+        ],
+        "title": "Эмма",
+        "publisher": "Пальмира",
+        "year": 2017,
+        "is_new": false,
+        "pages": 527,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 799.0
+    },
+    {
+        "authors": [
+            "Джейн Остен"
+        ],
+        "title": "Гордость и предубеждение",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 416,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 299.0
+    },
+    {
+        "authors": [
+            "Шарлотта Бронте"
+        ],
+        "title": "Джейн Эйр",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 672,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 388.0
+    },
+    {
+        "authors": [
+            "Александр Пушкин"
+        ],
+        "title": "Евгений Онегин",
+        "publisher": "Азбука",
+        "year": 2013,
+        "is_new": false,
+        "pages": 352,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 347.0
+    },
+    {
+        "authors": [
+            "Лев Толстой"
+        ],
+        "title": "Война и мир. Книга 1",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 736,
+        "subject": "История",
+        "category": "Роман",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Лев Толстой"
+        ],
+        "title": "Война и мир. Книга 2",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 736,
+        "subject": "История",
+        "category": "Роман",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Лев Толстой"
+        ],
+        "title": "Анна Каренина",
+        "publisher": "АСТ",
+        "year": 2023,
+        "is_new": false,
+        "pages": 448,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 1427.0
+    },
+    {
+        "authors": [
+            "Федор Достоевский"
+        ],
+        "title": "Преступление и наказание",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": false,
+        "pages": 672,
+        "subject": "Триллер",
+        "category": "Роман",
+        "price": 359.0
+    },
+    {
+        "authors": [
+            "Оскар Уайльд"
+        ],
+        "title": "Портрет Дориана Грея",
+        "publisher": "Эксмо",
+        "year": 2024,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Мистика",
+        "category": "Роман",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Михаил Булгаков"
+        ],
+        "title": "Мастер и Маргарита",
+        "publisher": "Азбука",
+        "year": 2024,
+        "is_new": false,
+        "pages": 480,
+        "subject": "Мистика",
+        "category": "Роман",
+        "price": 860.0
+    },
+    {
+        "authors": [
+            "Герман Мелвилл"
+        ],
+        "title": "Моби Дик",
+        "publisher": "Пальмира",
+        "year": 2018,
+        "is_new": false,
+        "pages": 253,
+        "subject": "Природа",
+        "category": "Роман",
+        "price": 639.0
+    },
+    {
+        "authors": [
+            "Джек Лондон"
+        ],
+        "title": "Белый клык",
+        "publisher": "Эксмо",
+        "year": 2024,
+        "is_new": false,
+        "pages": 384,
+        "subject": "Природа",
+        "category": "Роман",
+        "price": 376.0
+    },
+    {
+        "authors": [
+            "Виктор Мари Гюго"
+        ],
+        "title": "Собор Парижской Богоматери",
+        "publisher": "Эксмо",
+        "year": 2025,
+        "is_new": true,
+        "pages": 576,
+        "subject": "История",
+        "category": "Роман",
+        "price": 707.0
+    },
+    {
+        "authors": [
+            "Вальтер Скотт"
+        ],
+        "title": "Айвенго",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 480,
+        "subject": "История",
+        "category": "Роман",
+        "price": 471.0
+    },
+    {
+        "authors": [
+            "Вальтер Скотт"
+        ],
+        "title": "Уэверли Том 1",
+        "publisher": "Вече",
+        "year": 2021,
+        "is_new": false,
+        "pages": 448,
+        "subject": "Приключения",
+        "category": "Роман",
+        "price": 801.0
+    },
+    {
+        "authors": [
+            "Вальтер Скотт"
+        ],
+        "title": "Уэверли Том 2",
+        "publisher": "Вече",
+        "year": 2021,
+        "is_new": false,
+        "pages": 448,
+        "subject": "Приключения",
+        "category": "Роман",
+        "price": 699.0
+    },
+    {
+        "authors": [
+            "Вальтер Скотт"
+        ],
+        "title": "Квентин Дорвард",
+        "publisher": "Вече",
+        "year": 2016,
+        "is_new": false,
+        "pages": 480,
+        "subject": "История",
+        "category": "Роман",
+        "price": 259.0
+    },
+    {
+        "authors": [
+            "Чарльз Диккенс"
+        ],
+        "title": "Повесть о двух городах",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 544,
+        "subject": "История",
+        "category": "Роман",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Чарльз Диккенс"
+        ],
+        "title": "Большие надежды",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 608,
+        "subject": "Отношения",
+        "category": "Роман",
+        "price": 412.0
+    },
+    {
+        "authors": [
+            "Генри Хаггард"
+        ],
+        "title": "Копи царя Соломона",
+        "publisher": "АСТ",
+        "year": 2019,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Приключения",
+        "category": "Роман",
+        "price": 176.0
+    },
+    {
+        "authors": [
+            "Александр Дюма"
+        ],
+        "title": "Граф Монте-Кристо",
+        "publisher": "Азбука",
+        "year": 2010,
+        "is_new": false,
+        "pages": 1344,
+        "subject": "Приключения",
+        "category": "Роман",
+        "price": 720.0
+    },
+    {
+        "authors": [
+            "Александр Дюма"
+        ],
+        "title": "Три мушкетера",
+        "publisher": "Азбука",
+        "year": 2023,
+        "is_new": false,
+        "pages": 656,
+        "subject": "Приключения",
+        "category": "Роман",
+        "price": 376.0
+    },
+    {
+        "authors": [
+            "Стивен Кинг"
+        ],
+        "title": "Мёртвая зона",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 544,
+        "subject": "Мистика",
+        "category": "Роман",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Аркадий Стругацкий",
+            "Борис Стругацкий"
+        ],
+        "title": "Пикник на обочине",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Мистика",
+        "category": "Роман",
+        "price": 435.0
+    },
+    {
+        "authors": [
+            "Яков Перельман"
+        ],
+        "title": "Занимательная механика",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 208,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 359.0
+    },
+    {
+        "authors": [
+            "Рут Айлетт",
+            "Джон Бентли",
+            "Патрисия А. Варгас"
+        ],
+        "title": "Будущее наступило: большая книга прогнозов",
+        "publisher": "АСТ",
+        "year": 2023,
+        "is_new": false,
+        "pages": 880,
+        "subject": "Будущее",
+        "category": "Научная литература",
+        "price": 1533.0
+    },
+    {
+        "authors": [
+            "Александр Прасол"
+        ],
+        "title": "Роботы. История развития машин",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": false,
+        "pages": 208,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 1474.0
+    },
+    {
+        "authors": [
+            "Том Джексон"
+        ],
+        "title": "Взламывая технологии",
+        "publisher": "АСТ",
+        "year": 2020,
+        "is_new": false,
+        "pages": 272,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 919.0
+    },
+    {
+        "authors": [
+            "Владимир Никитин"
+        ],
+        "title": "Технологии будущего",
+        "publisher": "Техносфера",
+        "year": 2010,
+        "is_new": false,
+        "pages": 264,
+        "subject": "Будущее",
+        "category": "Научная литература",
+        "price": 624.0
+    },
+    {
+        "authors": [
+            "Дмитрий Соколов"
+        ],
+        "title": "Занимательное изобретательство в разных странах",
+        "publisher": "Техносфера",
+        "year": 2024,
+        "is_new": false,
+        "pages": 120,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 742.0
+    },
+    {
+        "authors": [
+            "Джеффри Дж. Макконнелл"
+        ],
+        "title": "Анализ алгоритмов",
+        "publisher": "Техносфера",
+        "year": 2009,
+        "is_new": false,
+        "pages": 416,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 943.0
+    },
+    {
+        "authors": [
+            "Леонардо да Винчи"
+        ],
+        "title": "О науке и искусстве",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Искусство",
+        "category": "Научная литература",
+        "price": 347.0
+    },
+    {
+        "authors": [
+            "Лев Толстой"
+        ],
+        "title": "Что такое искусство?",
+        "publisher": "Азбука",
+        "year": 2022,
+        "is_new": false,
+        "pages": 448,
+        "subject": "Искусство",
+        "category": "Научная литература",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Жан-Клод Карьер",
+            "Умберто Эко"
+        ],
+        "title": "Не надейтесь избавиться от книг!",
+        "publisher": "Азбука",
+        "year": 2025,
+        "is_new": true,
+        "pages": 320,
+        "subject": "Филология",
+        "category": "Научная литература",
+        "price": 1037.0
+    },
+    {
+        "authors": [
+            "Женя Александрова"
+        ],
+        "title": "Гид по искусству. История живописи",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 192,
+        "subject": "Искусство",
+        "category": "Научная литература",
+        "price": 1037.0
+    },
+    {
+        "authors": [
+            "Николай Жаринов"
+        ],
+        "title": "Тайная жизнь шедевров",
+        "publisher": "Эксмо",
+        "year": 2023,
+        "is_new": false,
+        "pages": 224,
+        "subject": "Искусство",
+        "category": "Научная литература",
+        "price": 1061.0
+    },
+    {
+        "authors": [
+            "Стивен Кинг"
+        ],
+        "title": "Как писать книги",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Филология",
+        "category": "Научная литература",
+        "price": 435.0
+    },
+    {
+        "authors": [
+            "Дмитрий Лихачев"
+        ],
+        "title": "От мысли к слову",
+        "publisher": "АСТ",
+        "year": 2023,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Филология",
+        "category": "Научная литература",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Юрий Лотман"
+        ],
+        "title": "Структура художественного текста",
+        "publisher": "Эксмо",
+        "year": 2024,
+        "is_new": false,
+        "pages": 512,
+        "subject": "Филология",
+        "category": "Научная литература",
+        "price": 459.0
+    },
+    {
+        "authors": [
+            "Стивен Хокинг"
+        ],
+        "title": "Теория Всего",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Физика",
+        "category": "Научная литература",
+        "price": 565.0
+    },
+    {
+        "authors": [
+            "Яков Перельман"
+        ],
+        "title": "Занимательная физика",
+        "publisher": "АСТ",
+        "year": 2025,
+        "is_new": true,
+        "pages": 352,
+        "subject": "Физика",
+        "category": "Научная литература",
+        "price": 365.0
+    },
+    {
+        "authors": [
+            "Стивен Хокинг"
+        ],
+        "title": "Краткая история времени",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 320,
+        "subject": "Физика",
+        "category": "Научная литература",
+        "price": 589.0
+    },
+    {
+        "authors": [
+            "Владимир Сурдин"
+        ],
+        "title": "Понятный космос: от кварка до квазара",
+        "publisher": "АСТ",
+        "year": 2024,
+        "is_new": false,
+        "pages": 384,
+        "subject": "Космос",
+        "category": "Научная литература",
+        "price": 1356.0
+    },
+    {
+        "authors": [
+            "Стивен Хокинг"
+        ],
+        "title": "Черные дыры и молодые вселенные",
+        "publisher": "АСТ",
+        "year": 2022,
+        "is_new": false,
+        "pages": 256,
+        "subject": "Космос",
+        "category": "Научная литература",
+        "price": 589.0
+    },
+    {
+        "authors": [
+            "Адам Беккер"
+        ],
+        "title": "Квантовая революция",
+        "publisher": "Эксмо",
+        "year": 2022,
+        "is_new": false,
+        "pages": 560,
+        "subject": "Физика",
+        "category": "Научная литература",
+        "price": 1769.0
+    },
+    {
+        "authors": [
+            "Алан Тьюринг"
+        ],
+        "title": "Игра в имитацию",
+        "publisher": "Эксмо",
+        "year": 2019,
+        "is_new": false,
+        "pages": 192,
+        "subject": "Технологии",
+        "category": "Научная литература",
+        "price": 530.0
+    },
+    {
+        "authors": [
+            "Эрвин Шредингер"
+        ],
+        "title": "Квантовый кот вселенной",
+        "publisher": "Эксмо",
+        "year": 2024,
+        "is_new": false,
+        "pages": 224,
+        "subject": "Физика",
+        "category": "Научная литература",
+        "price": 1061.0
+    }
+]
